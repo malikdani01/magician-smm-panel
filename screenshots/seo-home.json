@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Magician SMM - SMM Panel in Pakistan | Instagram, YouTube, TikTok",
+      "hasCanvas": false,
+      "bodyTextLen": 832,
+      "bodyTextHash": "26ec41baf445cd94533e625fee4d198f3c918c701458dec143b5beeb45aaf539",
+      "bodyTextPrefix": "Magician SMM Panel Login Register Home Services API Contact Blog",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/seo-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Magician SMM - SMM Panel in Pakistan | Instagram, YouTube, TikTok",
+      "hasCanvas": false,
+      "bodyTextLen": 813,
+      "bodyTextHash": "410af4555695ac771c110dca108c0c2d2d6ffbf1822e1db68670dce5e3a39d90",
+      "bodyTextPrefix": "Login Register Home Services API Contact Blog Fast · Secure · Af",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/seo-home-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/seo-home.json"
+}
